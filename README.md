@@ -68,6 +68,10 @@ Course: B.Tech
 Marks: 89.5
 Grade: A
 
+# Output Screenshot
+<img width="394" height="519" alt="Screenshot 2025-11-01 185345" src="https://github.com/user-attachments/assets/ed1ae60c-30f6-44b7-94dc-2d65bf42873d" />
+
+
 # Author
 
 Namee - Kartikeya Drall
